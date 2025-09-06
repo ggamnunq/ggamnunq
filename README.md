@@ -1,2 +1,13 @@
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=daniel5309)](https://solved.ac/daniel5309)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggamnunq)
+<div align="center"> 
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=🫧junyong&fontSize=100&fontColor=#531269)
+
+<br/>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ggamnunq&utm_content=farm">
+  <img
+    src="https://render.gitanimals.org/farms/ggamnunq"
+    width="600"
+    height="300"
+  />
+</a>
+</div>
