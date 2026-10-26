@@ -17,7 +17,7 @@
   <a href="https://github.com/najakchwi/jikmyeodeum-server"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/jikmyeodeum-dark.png">
     <img width="32%" src="./assets/cards/jikmyeodeum-light.png"
-      alt="직며듦 — KBO 경기 동행 매칭 앱. 2026.07 ~ 08 · 서버·모바일 앱. 경기별 동행 매칭 배치 설계·구현 / 앱 UI•UX 설계 및 구현 / 부하 테스트로 매칭·API 병목 개선 / 측정 오염을 막는 실험 검증 절차">
+      alt="직며듦 — KBO 경기 동행 매칭 앱. 2026.07 ~ 08 · 서버·모바일 앱. 경기별 동행 매칭 배치 설계·구현 / 앱 UI·UX 설계 및 구현 / 부하 테스트로 매칭·API 병목 개선 / 측정 오염을 막는 실험 검증 절차">
   </picture></a>
 </p>
 
@@ -26,7 +26,7 @@
   <a href="https://github.com/WhyLog-App/WhyLog-BE"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/whylog-dark.png">
     <img width="32%" src="./assets/cards/whylog-light.png"
-      alt="와이로그 — 회의→커밋 의사결정 맥락 추적 플랫폼. 2026.03 ~ 06 · 팀장 · 백엔드(실시간 회의) · 5인 팀. 채팅·자막·참가자 상태 실시간 처리 / 음성(WebRTC)•분리(WebSocket)로 텍스트 실시간성 개선 / 회의 종료 후 AI 분석 연동·결과 저장">
+      alt="와이로그 — 회의→커밋 의사결정 맥락 추적 플랫폼. 2026.03 ~ 06 · 팀장 · 백엔드(실시간 회의) · 5인 팀. 채팅·자막·참가자 상태 실시간 처리 / 음성·텍스트 파이프라인 분리로 실시간성 개선 / 회의 종료 후 AI 분석 연동·결과 저장">
   </picture></a>
   <a href="https://github.com/BusanVibe/back"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/busanvibe-dark.png">
@@ -36,7 +36,7 @@
   <a href="https://github.com/UMC-8th-kkukmoa/back-end"><picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/kkukmoa-dark.png">
     <img width="32%" src="./assets/cards/kkukmoa-light.png"
-      alt="꾹모아 — 금액권·자동 스탬프 적립 리워드 플랫폼. 2025.07 ~ 08 · 백엔드 리드 ·. 스탬프·쿠폰·금액권 기능 설계·구현 / QR 발급·검증, 유효기간 자동 관리 / 권한 설정, 팀 코드 포맷 자동화">
+      alt="꾹모아 — 금액권·자동 스탬프 적립 리워드 플랫폼. 2025.07 ~ 08 · 백엔드 리드. 스탬프·쿠폰·금액권 기능 설계·구현 / QR 발급·검증, 유효기간 자동 관리 / 권한 설정, 팀 코드 포맷 자동화">
   </picture></a>
 </p>
 
